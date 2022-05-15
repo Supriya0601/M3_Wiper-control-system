@@ -30,12 +30,12 @@ The main objective of wiper system is clean the windshield effectively to provid
   ### HOW
   They can be operated by electric motors.
   
-  # APPLICATION
+  ## APPLICATION
   * It used in car so that it can remove rain, snow, ice, washer fluid, water, and/or debris from a vehicle's front window.
   * It protect from cause of accident.
   
-  # TABLE
-  ## HIGH LEVEL REQUIREMENT
+  ## TABLE
+  ### HIGH LEVEL REQUIREMENT
   
   |ID | Description | Category|
   |---|---|---|
@@ -44,7 +44,7 @@ The main objective of wiper system is clean the windshield effectively to provid
   |HR_03 | Turning on wiper |Implemented|
   |HR_04 | Turing off wiper |Implemented|
   
-  ## LOW LEVEL REQUIREMENTS
+  ### LOW LEVEL REQUIREMENTS
   
   |ID | Description | Category|
   |---|---|---|
