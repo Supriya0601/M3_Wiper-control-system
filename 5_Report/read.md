@@ -27,3 +27,5 @@ The  following  measures must  be taken  into consideration  when using  the aut
 
 ## CONCLUSION
 Its less power consumption, been free from wear and tear as well  as  it been  possible to operate  manually/automatically by  providing on/off switch  all make this design a very useful and advantageous working model.Thus the advantage of this project, which  is  the automatic rain wiper, is  cost effective, sustainable,  and user-friendly. 
+
+![wiper-mechanism-large](https://user-images.githubusercontent.com/101213319/168469392-8d58e852-8e52-4135-9080-20e235e0306d.jpg)
